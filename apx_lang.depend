@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1379427446 source:/home/milos/projects/cpp/apx_lang/interpr.cpp
+	<cmath>
+	<iostream>
+	<queue>
+	<vector>
+	"interpr.hpp"
+	"except.h"
+	"parser.h"
+	"syntax.h"
+
+1379425689 /home/milos/projects/cpp/apx_lang/interpr.hpp
+	<iostream>
+	<stack>
+	<vector>
+	<string.h>
+	<map>
+	"except.h"
+
+1379425689 /home/milos/projects/cpp/apx_lang/except.h
+	<exception>
+	<string>
+	<sstream>
+
+1379425689 /home/milos/projects/cpp/apx_lang/parser.h
+	<istream>
+	<cstdio>
+	<map>
+	"except.h"
+
+1379427779 /home/milos/projects/cpp/apx_lang/syntax.h
+	<istream>
+	"interpr.h"
+	"parser.h"
+
+1379425689 source:/home/milos/projects/cpp/apx_lang/parser.cpp
+	<istream>
+	<iostream>
+	<stdlib.h>
+	<cstdio>
+	<cctype>
+	"parser.h"
+
+1379425689 source:/home/milos/projects/cpp/apx_lang/syntax.cpp
+	<vector>
+	"syntax.h"
+	"parser.h"
+	"except.h"
+
+1379426378 source:/home/milos/projects/cpp/apx_lang/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string.h>
+	"parser.h"
+	"except.h"
+	"interpr.hpp"
+	"syntax.h"
+
+1379425689 /home/milos/projects/cpp/apx_lang/interpr.h
+	<iostream>
+	<stack>
+	<vector>
+	<string.h>
+	<map>
+	"except.h"
+
